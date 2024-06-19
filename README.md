@@ -1,7 +1,8 @@
 # First_repo
 this is my first repository <br>
-*github is nice*
-$Soo good$
+*github is nice* <br>
+$Soo$ $good$<br>
+
 
 
 
